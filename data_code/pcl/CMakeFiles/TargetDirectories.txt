@@ -1,0 +1,7 @@
+/home/ncj/Desktop/pcl/CMakeFiles/install.dir
+/home/ncj/Desktop/pcl/CMakeFiles/list_install_components.dir
+/home/ncj/Desktop/pcl/CMakeFiles/rebuild_cache.dir
+/home/ncj/Desktop/pcl/CMakeFiles/install/strip.dir
+/home/ncj/Desktop/pcl/CMakeFiles/install/local.dir
+/home/ncj/Desktop/pcl/CMakeFiles/mesh.dir
+/home/ncj/Desktop/pcl/CMakeFiles/edit_cache.dir
