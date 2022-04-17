@@ -1,8 +1,0 @@
-Sample points from .obj file as .pcd file
-1. Change the number of 'default_number_samples' in mesh.cpp (line 118). 
-2. Change the 'rootdir' and 'savedir' in os_eval.py (line 2 and 3).
-(option) 3. make clean
-(option) 4. make 
-5. python os_eval.py
-
-rootdir is the folder of seg_objs folders.
