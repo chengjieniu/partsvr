@@ -6,4 +6,19 @@
 Yang Yu, 
 Zhenwei Bian,
 Jun Li,
-[Kevin (Kai) Xu](https://kevinkaixu.net/), 
+[Kevin (Kai) Xu](https://kevinkaixu.net/)
+
+## Results
+<img src="images/teaser.gif"  width="800" />
+<br>
+<img src="images/teaser_1.gif"  width="800" />
+<br>
+In this work, we attempt to tackle the problem of weaklysupervised, part-wise 3D reconstruction from single-view RGB images. In particular, given a single-view image, our method is able to recover the corresponding 3D shape as an assembly of semantic parts (shown with distinct colors).
+
+## Getting Started
+
+### Environment
+Python3.6.9, Pytorch 1.10.2, CUDA 10.2.
+
+
+
