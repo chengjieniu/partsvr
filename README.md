@@ -15,6 +15,21 @@ Jun Li,
 <br>
 In this work, we attempt to tackle the problem of weaklysupervised, part-wise 3D reconstruction from single-view RGB images. In particular, given a single-view image, our method is able to recover the corresponding 3D shape as an assembly of semantic parts (shown with distinct colors).
 
+## Citation
+If you find our work useful in your research, please consider citing:
+``` 
+@inproceedings{niu2020weakly, 
+               title={Weakly Supervised Part-wise 3D Shape Reconstruction from Single-View RGB Images},  
+               author = {Niu, Chengjie and Yu, Yang and Bian, Zhenwei and Li, Jun and Xu, Kai}, 
+               booktitle={Computer Graphics Forum},   
+               volume={39},
+               number={7],
+               pages={447-457},
+               year={2020},
+               organization={Wiley Online Library}
+               }
+``` 
+
 ## Getting Started
 
 ### Environment
