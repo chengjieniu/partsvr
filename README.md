@@ -20,5 +20,10 @@ In this work, we attempt to tackle the problem of weaklysupervised, part-wise 3D
 ### Environment
 Python3.6.9, Pytorch 1.10.2, CUDA 10.2.
 
+### Model
+The link of pre-trained models:<br>
+https://drive.google.com/drive/folders/19X7MkOI_WVBB75bO9XV2burYQ_zb3WSZ?usp=sharing
+
+If you have more questions, please contact nchengjie@gmail.com.
 
 
